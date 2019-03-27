@@ -35,3 +35,6 @@ Add following Output conf replacing the {{ . }} with corresponding configuration
       </buffer>
     </match>
     ```
+    
+    
+    For further info on installing Rook's Ceph S3 : https://medium.com/@vijai.nallagatla/ceph-s3-object-starage-from-fluentd-efk-stack-cd0c2d99c312
