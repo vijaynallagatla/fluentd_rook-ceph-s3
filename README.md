@@ -1,6 +1,4 @@
-# Fluentd with Rook's Ceph S3 storage integration
-
-# Rook's Ceph S3 storage Add-On
+# Rook's Ceph S3 storage Add-On integration with Fluentd
 s3 output plugin buffers event logs in local file and upload it to S3 periodically.
 
 ```
