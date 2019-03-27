@@ -34,7 +34,6 @@ Add following Output conf replacing the {{ . }} with corresponding configuration
         chunk_limit_size 256m
       </buffer>
     </match>
-    ```
-    
-    
-    For further info on installing Rook's Ceph S3 : https://medium.com/@vijai.nallagatla/ceph-s3-object-starage-from-fluentd-efk-stack-cd0c2d99c312
+```
+
+For further info on installing Rook's Ceph S3 : https://medium.com/@vijai.nallagatla/ceph-s3-object-starage-from-fluentd-efk-stack-cd0c2d99c312
